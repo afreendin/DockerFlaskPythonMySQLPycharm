@@ -2,3 +2,4 @@ mysql
 Flask
 mysql-connector
 simplejson
+dnspython==1.15.0
